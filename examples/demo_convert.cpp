@@ -84,7 +84,7 @@ void DisplayTags(ostream &os, luint nTags)
   }
 }
 
-int main( unsigned int argc, char * const argv[])
+int main( int argc, char * const argv[])
 {
   flags_t ulFlag = ID3TT_ALL;
   gengetopt_args_info args;
