@@ -227,7 +227,7 @@ AC_CHECK_HEADERS(fstream iostream iomanip vector \
 )
 AC_CHECK_HEADERS(               \
   string                        \
-  iomanip.h                     \
+  iomanip                       \
   ,,AC_MSG_ERROR([Missing a vital header file for id3lib])
 )
 

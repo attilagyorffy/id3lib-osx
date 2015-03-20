@@ -1,0 +1,11 @@
+Makefile
+libtool
+stamp-h1
+/config.h
+/config.log
+/config.status
+/zlib/config.h
+/zlib/config.log
+/zlib/config.status
+*.Po
+*.Plo

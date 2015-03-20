@@ -309,7 +309,7 @@ void PrintInformation(const ID3_Tag &myTag)
 
 #define DEBUG
 
-int main( unsigned int argc, char * const argv[])
+int main( int argc, char * const argv[])
 {
   ID3D_INIT_DOUT();
 
